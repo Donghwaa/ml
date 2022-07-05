@@ -19,3 +19,6 @@ jupyter notebook
 ```
 
 ****Decisiontree.ipynb : 의사결정나무 예제****
+
+![기준금리와 물가](https://user-images.githubusercontent.com/104951977/177272681-8f7623a3-bdbe-4e83-a1ce-c9430c7965e6.png)
+
